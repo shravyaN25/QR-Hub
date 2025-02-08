@@ -1,7 +1,40 @@
-# QR Code Generator
+QR Code Generator & Manager
+A full-stack web application that allows users to generate, customize, and manage QR codes efficiently. Built with Spring Boot for the backend and Next.js (React) for the frontend, the app provides a seamless and secure user experience.
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
+Key Features
 
-Full stack web application for generating and managing QR codes, built with Spring Boot and Next.js. Authenticated users can create customized QR codes with various options like size, colors, and error correction levels, as well as save and manage their QR codes.
+1. User Authentication:
+Secure login & registration with email and password.
+User registration with profile details.
 
-It can be accessed [here](https://qr-code.works).
+2. QR Code Generation
+Customize QR codes (size, colors, error correction levels).
+Supports different types: URL, text, email, phone number, etc.
+
+3. QR Code Management
+Personal dashboard to view, edit, delete, and download QR codes.
+Users can organize and keep track of their previously generated QR codes.
+
+Tech Stack used :
+Backend (Server-Side) - Spring Boot
+Language: Java
+Framework: Spring Boot (handles API, authentication, and business logic)
+Build Tool: Gradle (for managing dependencies and building the project)
+Deployment: Docker (for containerized deployment)
+
+Frontend (User Interface) - Next.js
+Language: TypeScript & JavaScript
+Framework: Next.js (React-based, ensures fast & optimized UI)
+Styling: CSS & PostCSS (for responsive design)
+
+Database (Data Storage)
+Type: Relational Database (MySQL or PostgreSQL)
+Purpose: Stores user accounts and QR code details securely.
+
+Why This Stack?
+
+✅ Spring Boot ensures scalability and security.
+✅ Next.js provides a fast, user-friendly interface.
+✅ Docker makes deployment efficient and reliable.
+
+This app is designed to be secure, user-friendly, and highly customizable, making QR code generation and management effortless. 
