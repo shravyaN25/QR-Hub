@@ -1,0 +1,42 @@
+.wrapper {
+  padding-top: calc(var(--mantine-spacing-xl) * 2);
+  padding-bottom: calc(var(--mantine-spacing-xl) * 2);
+}
+
+.title {
+  font-family: 'Greycliff CF', var(--mantine-font-family);
+  font-weight: 900;
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-3));
+}
+
+.highlight {
+  background: linear-gradient(
+    to right,
+    var(--mantine-color-cyan-6),
+    var(--mantine-color-indigo-6)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.paper {
+  background-color: light-dark(
+    var(--mantine-color-white),
+    var(--mantine-color-dark-7)
+  );
+  padding: var(--mantine-spacing-xl);
+  border-radius: var(--mantine-radius-md);
+  box-shadow: var(--mantine-shadow-sm);
+}
+
+.tabs {
+  margin-top: var(--mantine-spacing-xl);
+}
+
+@media (max-width: var(--mantine-breakpoint-sm)) {
+  .wrapper {
+    padding-top: calc(var(--mantine-spacing-xl) * 1.5);
+    padding-bottom: calc(var(--mantine-spacing-xl) * 1.5);
+  }
+}

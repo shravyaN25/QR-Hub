@@ -1,0 +1,32 @@
+.header {
+  height: 60px;
+  background-color: var(--mantine-color-body);
+  border-bottom: 1px solid
+    light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+}
+
+.inner {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 var(--mantine-spacing-md);
+}
+
+.burger {
+  display: none;
+  margin-left: auto;
+  margin-right: var(--mantine-spacing-xs);
+  height: 100%;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .burger {
+    display: flex;
+  }
+
+  .links {
+    display: none;
+  }
+}
