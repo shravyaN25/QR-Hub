@@ -45,7 +45,7 @@ This app is designed to be secure, user-friendly, and highly customizable, makin
 
 ![Image](https://github.com/user-attachments/assets/d8b824a4-124f-4af8-955b-5bb3dcb0f982)
 
-![Image](https://github.com/user-attachments/assets/52caad04-481f-4661-b48d-09b285520a14)
+![Image](https://github.com/user-attachments/assets/d04c9446-607e-4e3c-a449-bede1841e2bf)
 
 ![Image](https://github.com/user-attachments/assets/e131e2dd-cf17-40c8-8314-e033521af45c)
 
