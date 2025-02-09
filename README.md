@@ -1,4 +1,4 @@
-QR Code Generator & Manager
+QR Code Generator & Manager:
 A full-stack web application that allows users to generate, customize, and manage QR codes efficiently. Built with Spring Boot for the backend and Next.js (React) for the frontend, the app provides a seamless and secure user experience.
 
 Key Features
