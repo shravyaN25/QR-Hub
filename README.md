@@ -39,7 +39,7 @@ Why This Stack?
 
 This app is designed to be secure, user-friendly, and highly customizable, making QR code generation and management effortless. 
 
-[Image](https://github.com/user-attachments/assets/4c16cd3d-a0b6-4213-836f-51a4e7171f98)
+![Image](https://github.com/user-attachments/assets/4c16cd3d-a0b6-4213-836f-51a4e7171f98)
 
 ![Image](https://github.com/user-attachments/assets/d8b824a4-124f-4af8-955b-5bb3dcb0f982)
 
